@@ -27,7 +27,7 @@ const Navbar = () => {
               : 'bg-white text-black px-2 py-1 rounded md:bg-transparent md:text-white'
           }`}
         >
-          Portofolio
+          Satya Bintang
         </h1>
 
         {/* Hamburger menu */}
