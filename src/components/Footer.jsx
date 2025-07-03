@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
                 <a href="https://www.instagram.com/m.s_bintang/"><i className="ri-instagram-fill ri-lg"></i></a>
                 <a href="https://www.facebook.com/satya.bintang.98"><i className="ri-facebook-fill ri-lg"></i></a>
-                <a href="https://www.facebook.com/satya.bintang.98"><i className="ri-linkedin-fill ri-lg"></i></a>
+                <a href="https://www.linkedin.com/in/m-satya-bintang-r/"><i className="ri-linkedin-fill ri-lg"></i></a>
                 <a href="https://github.com/Indobin"><i className="ri-github-fill ri-lg"></i></a>
             </div>
         </div>
